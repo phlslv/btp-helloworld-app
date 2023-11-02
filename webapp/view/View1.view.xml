@@ -1,7 +1,7 @@
 <mvc:View controllerName="sap.btp.helloworldui5.controller.View1"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="HelloWorld1222">
+    <Page id="page" title="HelloWorld1223">
         <IllustratedMessage id="ilm1" enableVerticalResponsiveness="true" illustrationType="sapIllus-SuccessBalloon">
         <additionalContent>
               <Button id="but1" text="Alert" class="sapUiSmallMarginBottom" press=".onAlertMessageBoxPress" width="280px" ariaHasPopup="Dialog" />
